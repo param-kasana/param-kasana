@@ -28,9 +28,8 @@ In this collaborative filtering project, we address diverse recommendation tasks
 
 This project not only delves into the core aspects of collaborative filtering but also explores cutting-edge solutions for improved movie recommendations, offering a comprehensive view of the landscape through a variety of technologies and tools.
 
-### [Project 2: Chatbot for Customer Support](Link to Project 2)
-- Built a chatbot using natural language processing (NLP) to provide automated customer support.
-- Technologies: Python, spaCy, Flask
+### Project 2: [Sentiment Analysis](https://github.com/param-kasana/Sentiment-Analysis-on-Reddit-Data)
+This project focuses on analyzing Reddit data to address questions related to BMW, utilizing social media for market research. The comprehensive data science process is employed, covering data collection to findings communication. The learning outcomes include applying data science techniques to analyze social media and networks, utilizing Natural Language Processing (NLP) for sentiment and topic detection, and presenting insights derived from social media and network analysis. In the scenario, the goal is to showcase these capabilities to a potential client unfamiliar with social media analytics, with the project serving as market research for BMW.
 
 ## 📬 Let's Connect!
 
