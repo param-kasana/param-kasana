@@ -23,9 +23,10 @@ My journey in the world of technology revolves around identifying real-world pro
 
 ## 🚀 Projects
 
-### [Project 1: Smart Image Classifier](Link to Project 1)
-- Developed an image classifier using convolutional neural networks (CNN) to classify objects in images.
-- Technologies: Python, TensorFlow, OpenCV
+### Project 1: [Movie Recommender System](https://github.com/param-kasana/Movie_Recommender_System)
+In this collaborative filtering project, we address diverse recommendation tasks, such as user-based (KNN-based Collaborative Filtering), item-based filtering (utilizing KNN), and propose an innovative solution for enhanced recommendation quality. Technologies employed include Python for implementation, Scikit-Learn for machine learning, Surprise for building and analyzing recommender systems, Jupyter for interactive development and Git for version control.
+
+This project not only delves into the core aspects of collaborative filtering but also explores cutting-edge solutions for improved movie recommendations, offering a comprehensive view of the landscape through a variety of technologies and tools.
 
 ### [Project 2: Chatbot for Customer Support](Link to Project 2)
 - Built a chatbot using natural language processing (NLP) to provide automated customer support.
