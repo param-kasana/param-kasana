@@ -6,7 +6,7 @@ My journey in the world of technology revolves around identifying real-world pro
 ## 🚀 Quick Overview
 
 - 🔭 I’m currently pursuing my Masters of Artificial Intelligence.
-- 🌱 I'm exploring various aspects of AI, including data science, machine learning and natural language processing.
+- 🌱 I'm exploring various aspects of AI, including data science, machine learning and artificial intelligence.
 - 👯 I’m looking to collaborate on AI projects and open-source contributions.
 - 📫 Reach me at [kasanaparam@gmail.com](mailto:kasanaparam@gmail.com).
 
@@ -16,7 +16,9 @@ My journey in the world of technology revolves around identifying real-world pro
 - **Data Mining, Visualization, and Interpretation**
 - **Data and Quantitative Analysis**
 - **Predictive Modeling**
+- **Statistical Modelling**
 - **Natural Language Processing**
+- **Computer Vision**
 - **ML Model Development and Enhancement**
 - **Feature Engineering**
 - **Microsoft SQL**
